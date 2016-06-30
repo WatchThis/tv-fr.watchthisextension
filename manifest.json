@@ -1,0 +1,8 @@
+{
+    "name": "TV France",
+    "id": "com.getwatchthis.tv-fr",
+    "version": "1",
+    "kind": "tv",
+    "image": "flag:fr",
+    "short_description": "TV channels from France",
+}
